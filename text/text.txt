@@ -1,0 +1,11 @@
+Привет, {name_player}! Добро пожаловать в игру Texas holdem. Вот тебе начальный бонус в 1000 фишек. Удачи!
+
+Hello, {name_player}! Welcome to the Texas Hold'em game. Here's your starting bonus of 1000 chips. Good luck!
+
+Привет, {name_player}!
+
+Добро пожаловать в игру Texas Hold'em. Мы рады видеть тебя здесь! Для твоего успешного старта в этом захватывающем покерном мире, мы дарим тебе начальный бонус в 1000 фишек. Положи их на свой счет и начни свой путь к победе. Удачи за столом!
+
+Hello, {name_player}!
+
+Welcome to the world of Texas Hold'em. We're thrilled to have you here! To kick-start your journey in this thrilling poker adventure, we're giving you an initial bonus of 1000 chips. Add them to your account and start your path to victory. Good luck at the table!
